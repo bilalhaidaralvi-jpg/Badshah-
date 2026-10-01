@@ -1,0 +1,7 @@
+{
+  "name": "Baby Sensory Animals - As-salamu Alaikum",
+  "description": "A delightful pastel baby sensory game for toddlers featuring four bouncing animals (kitty, bunny, bear, duck) that pop with colorful stars and cheerful greetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
